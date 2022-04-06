@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjemploDeLocalización</string>
+    <string name="tc">Términos &amp; Condiciones</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="description">Descripción</string>
+</resources>
